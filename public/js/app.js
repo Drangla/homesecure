@@ -37499,8 +37499,8 @@ var Form = /*#__PURE__*/function () {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Anna\Desktop\stuff\FH\Semester_4\DBS\Raumschiffgesellschaft\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Anna\Desktop\stuff\FH\Semester_4\DBS\Raumschiffgesellschaft\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Drangla\PhpstormProjects\homesecure\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Drangla\PhpstormProjects\homesecure\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
